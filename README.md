@@ -10,7 +10,7 @@ Thus, the user can display the trainers by filtering them by languages and/or fr
 The project don't have graphic formatting because this is not the demo objective.
 
 
-===============================================================================================
+===========================================================================================
 
 # FRONT : filtrage d'une base de donnée
 Démonstration technique d'une gestion de l'affichage de données (provenant d'une fichier de donnée en local) selon l'application de 2 filtres.
